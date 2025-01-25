@@ -2,7 +2,7 @@
 
 What is server ??? 
 
-![IMG_0775.jpeg](attachment:aabcab43-a3b8-4ba3-a268-88b914df0980:IMG_0775.jpeg)
+![IMG_0775.jpeg]([attachment:aabcab43-a3b8-4ba3-a268-88b914df0980:IMG_0775.jpeg](https://i.ibb.co.com/7RbVxTg/IMG-0775.jpg))
 
 ### সার্ভারের মূল উদ্দেশ্য কী?
 
